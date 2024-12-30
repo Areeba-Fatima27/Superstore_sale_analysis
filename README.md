@@ -1,7 +1,7 @@
 # Superstore_sale_analysis
 Excel, Big Query, SQL, Powerbi
 
-Excited to share my latest project where I dove deep into the Kaggle Superstore Sales Dataset! 𝐔𝐬𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐥 for data cleaning and 𝐒𝐐𝐋 (𝐁𝐢𝐠 𝐐𝐮𝐞𝐫𝐲) for analysis, I’ve extracted some valuable insights that can drive key business decisions.
+𝐔𝐬𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐥 for data cleaning and 𝐒𝐐𝐋 (𝐁𝐢𝐠 𝐐𝐮𝐞𝐫𝐲) for Kaggle Superstore Sales Dataset analysis, I’ve extracted some valuable insights that can drive key business decisions.
 
 ### 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐢𝐝:
 - Cleaned and formatted 9995 rows of data to ensure it was analysis-ready using Excel.
