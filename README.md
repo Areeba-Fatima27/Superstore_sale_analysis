@@ -8,7 +8,7 @@ Excited to share my latest project where I dove deep into the Kaggle Superstore 
 - Loaded it into SQL to review schema and validate data for deeper insights.
 - Designed an interactive dashboard, providing a dynamic view of key metrics, trends, and performance indicators to help businesses make data-driven decisions using 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈.
 
-### Insights & Analysis
+## Insights & Analysis
 
 #### Profit Optimization:
 Focus on boosting stock and marketing efforts in 4 quarter to maximize festive season profits.
